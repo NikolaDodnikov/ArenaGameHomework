@@ -41,7 +41,7 @@ namespace ArenaGame.Weapons
             }
             else
             {
-                AttackDamage -= 8;
+                AttackDamage = 1;
             }
         }
     }
